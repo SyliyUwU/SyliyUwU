@@ -10,11 +10,11 @@ i've been learning Luau 2 years
 * 🖥️  See my portfolio at [my website (not dong yet)](http://lzlkyxv5jsxve.netlify.app/)
 * 🧠  I'm learning HTML , Luau
 
-### Languages
+### Main Languages
 
 
 <p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="36" height="36" alt="VS Code" /></a><a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_blank" rel="noreferrer">
+<a href="https://luau-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="36" height="36"
 </p>
 
 
