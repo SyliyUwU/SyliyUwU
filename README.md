@@ -1,5 +1,5 @@
 # Hello/Hi "Stranger"!
-> I'm **Stacia**, that not my real name but *[for call me or chat with me]*, I'm a man is my pronouns are **he/him** if you want through Discord (at my github username, i should respond in less than 1 day, [maybe]).  I'am a Scripter—more info about my self— I know a *few* coding languages *(maybe i should learn more)*, and thank you for reading I hope you have a nice day! ❤️ [![Stats](https://github-readme-stats.vercel.app/api?username=pri4c1lla&show_icons=true&count_private=true&theme=dark)](https://github.com/pri4c1lla)
+> I'm **Stacia**, that not my real name but *[for call me or chat with me]*, my pronouns are **he/him** if you want through Discord (at my github username, i should respond in less than 1 day, [maybe]).  I'am a Scripter—more info about my self— I know a *few* coding languages *(maybe i should learn more)*, and thank you for reading I hope you have a nice day! ❤️ [![Stats](https://github-readme-stats.vercel.app/api?username=pri4c1lla&show_icons=true&count_private=true&theme=dark)](https://github.com/pri4c1lla)
 ---
 > **Colors**<br/>
 > I like soft pink and light blue but my favorites are more of a combo like monochrome sets, but that's just me<br/>
